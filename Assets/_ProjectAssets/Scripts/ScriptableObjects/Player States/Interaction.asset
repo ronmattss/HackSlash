@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d71171953c5047eb976049e41202d093, type: 3}
+  m_Name: Interaction
+  m_EditorClassIdentifier: 
+  state: 0
+  animator: {fileID: 0}
+  animationName: Interact
+  currentState:
+    outState: {fileID: 11400000, guid: 985f590a21756454bb22f5388a5ffbab, type: 2}
+  stateOutputs:
+  - {fileID: 11400000, guid: 9fbb9dc669fe0264bbe219aa8550ca6f, type: 2}

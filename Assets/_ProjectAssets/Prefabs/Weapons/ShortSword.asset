@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3858f188335a45c49c848b129f581bc6, type: 3}
+  m_Name: ShortSword
+  m_EditorClassIdentifier: 
+  weaponName: ShortSword
+  weaponType: 1
+  damage: 0
+  leftWeapon: {fileID: 0}
+  rightWeapon: {fileID: 4833617834730975113, guid: 436c7ed32aee2974a9753f6cfedc3e4e, type: 3}
+  twoHandedWeapon: {fileID: 0}
+  effects:
+    hitEffect: {fileID: 1008842686038376, guid: 42c427f9d12527f4b86f4e770b4ce034, type: 3}
+    hitSound: {fileID: 8300000, guid: eff12b8e692b14b6d9e7fc89ebbc3443, type: 3}
+    swooshSound: {fileID: 8300000, guid: 1d9e48576a56b45a8a10dfcf286a0e90, type: 3}
+  hitPrefab: {fileID: 0}
+  animator: {fileID: 0}
