@@ -1,5 +1,5 @@
 # HackSlash (WIP)
- Prototype Melee Combat System where it can handle any type of weapon. The problem with melee combat is that there are multiple ways to implement such system.
+ Prototype Melee Combat System where it can handle any type of weapon
 # Features
 The goal of this prototype is to create a system that can:
 
